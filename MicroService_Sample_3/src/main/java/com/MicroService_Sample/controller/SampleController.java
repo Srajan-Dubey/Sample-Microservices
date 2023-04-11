@@ -8,7 +8,7 @@ public class SampleController {
 
 	 @GetMapping("/")
 	    public String hello() {
-	    	return "Welcome to microservice3";
+	    	return "Welcome to TRH";
 	    }
 
 
